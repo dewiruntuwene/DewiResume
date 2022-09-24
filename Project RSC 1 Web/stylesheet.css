@@ -1,0 +1,193 @@
+body {
+	margin: 0;
+	font-family: "Roboto";
+	
+}
+
+a {
+	text-decoration: none;
+}
+
+.container {
+	width: 1170px;
+	padding: 0 15px;
+	margin: 0 auto;
+	border-spacing: 10px;
+}
+
+.top-wrapper {
+	padding: 180px 0 50px 0;
+	background-image: url("E:/Import Data/Project RSC/Project RSC 1 Web/top.png");
+	background-size: cover;
+	color: #000040;
+	text-align: center;
+	opacity: 0.7;
+	
+}
+
+.top-wrapper h1 {
+	
+	font-size: 45px;
+	letter-spacing: 5px;
+	margin-bottom: 10px
+}
+
+.top-wrapper p {
+	
+	margin-bottom: 3px
+}
+
+.btn {
+	padding: 12px 24px 12px 24px;
+	color: white;
+	display: inline-block;
+	opacity: 0.8;
+	border-radius: 4px;
+}
+
+.signup {
+	background-color: #000040;
+}
+
+.btn-wrapper {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.btn-wrapper p {
+	margin-top: 10px 10px;
+}
+
+.btn:hover {
+	opacity: 1;
+}
+
+header {
+	height: 40px;
+	width: 100%;
+	background-color: #000040;
+	background-attachment: scroll;
+}
+
+.logo {
+	width: 124px;
+	margin-top: 20px;
+}
+
+.header-left {
+	float: left;
+
+}
+
+.header-right {
+	float: right;
+	background-color: rgba(255, 255, 255, 0.3);
+	transition: 0.5;
+	width: 60px;
+	text-align: center;
+}
+
+.header-right:hover {
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+.header-right a {
+	line-height: 40px;
+	padding-left: 0 25px;
+	color: white;
+	display: block;
+}
+
+.lesson-wrapper {
+	height: 500px;
+	padding-bottom: 80px;
+	background-color: #f7f7f7;
+}
+
+.heading {
+	padding-top: 60px;
+	padding-bottom: 30px;
+	color: #5f5d60;
+}
+
+.heading h2 {
+	font-weight: normal;
+}
+
+.lesson {
+	float: left;
+	width: 25%
+}
+
+.lesson-icon img{
+	width: 200px;
+	height: 210px;
+	position: relative;
+}
+
+.lesson-wrapper {
+	text-align: center;
+	height: 0 px;
+}
+
+.lesson-icon p {
+	position: absolute;
+	top: 1000px;
+	width: 300px;
+	color: #000040;
+	text-align: center;
+}
+
+.btn-wrapper lesson-icon {
+	padding: 12px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 8px;
+}
+
+.lesson-icon signup {
+	background-color: #000040;
+}
+
+.btn lesson {
+	top: 200px;
+}
+
+footer {
+	height: 200px;
+	width: 100%;
+	background-color: #000040;
+	color: white;
+	margin:  auto;
+	
+}
+
+
+
+
+.container3 {
+	height: 150px;
+	padding: 0 15px;
+	margin: 0 auto;
+	padding-bottom: 40px;
+	text-align: center;
+	width: 1170px;
+	
+}
+
+tr {
+	align-items: center;
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-block;
+}
+
+
+
+
+
+
+
+
+
